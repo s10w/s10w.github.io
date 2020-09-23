@@ -24,13 +24,13 @@
 <br><br>
 # [관련 이미지 & 동영상]
 - 이미지
-<img src="./img/angel.jpg" width="800" height="480">
+<img src="./img/angel.jpg" width="640" height="480">
 <img src="./img/simbol.jpg" width="640" height="480">
 <img src="./img/topview.jpg" width="640" height="480">
 <br><br>
 
 # [대표 이미지]
-<img src="./img/main.jpg" width="640" height="480">
+<img src="./img/main.jpg" width="800" height="480">
 
 <br><br>
 # [컨셉 & 대표이미지 기반 작품묘사]
