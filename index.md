@@ -2,7 +2,7 @@
 ## 메인 컨셉 : 웨이브
 **웨이브란 게임에서 쉴새없이 몰려오는 적들을 뜻하며 플레이어에게 지속적인 긴장감을 제공**<br/>
 <br/>
-<img src="./img/topview.jpg" width="400" height="200"><br/>
+<img src="./img/topview.jpg" width="400" height="400"><br/>
 <br/>
 장르 : 슈팅 & 핵 앤 슬래시<br/>
 게임 시점 :  2D 탑 뷰<br/>
