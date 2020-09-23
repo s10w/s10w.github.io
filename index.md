@@ -2,7 +2,7 @@
 ## 메인 컨셉 : 웨이브
 **웨이브란 게임에서 쉴새없이 몰려오는 적들을 뜻하며 플레이어에게 지속적인 긴장감을 제공**<br/>
 <br/>
-<img src="./img/topview.jpg"><br/>
+<img src="./img/topview.jpg">{: width="100" height="100"}<br/>
 <br/>
 장르 : 슈팅 & 핵 앤 슬래시<br/>
 게임 시점 :  2D 탑 뷰<br/>
@@ -18,9 +18,9 @@
 플레이어는 나만의 방식으로 성장한 캐릭터에 애정을 가지게 됨 <br/>
 <br/>
 **성장 & 선택의 구성요소 : 교단**<br/>
-<img src="./img/simbol.jpg"><br/>
+<img src="./img/simbol.jpg">{: width="100" height="100"}<br/>
 플레이어를 도와주는 집단으로 게임 시작 전 선택 최대 2개의 교단을 선택하여 교단에 따라 플레이어가 사용하는 기술이 변경<br/>
 또한 플레이어의 성장에 따라 기술이 강화됨<br/>
 <br/>
 ### 서브 컨셉2
-<img src="./img/angel.jpg">
+<img src="./img/angel.jpg">{: width="100" height="100"}
