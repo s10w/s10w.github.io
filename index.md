@@ -24,9 +24,9 @@
 <br><br>
 # [관련 이미지 & 동영상]
 - 이미지
-<img src="./img/angel.jpg" width="640" height="480"><br>
-<img src="./img/simbol.jpg" width="640" height="480"><br>
-<img src="./img/topview.jpg" width="640" height="480"><br>
+<img src="./img/angel.jpg" width="640" height="480">
+<img src="./img/simbol.jpg" width="640" height="480">
+<img src="./img/topview.jpg" width="640" height="480">
 <br><br>
 # [대표 이미지]
 ![그림](./img/그림.png)
