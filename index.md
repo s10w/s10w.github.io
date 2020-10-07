@@ -31,11 +31,11 @@
 
 <br><br>
 # [관련 이미지 & 동영상]
-<img src="./img/angel.jpg" width="640" height="480">  
+<img src="./img/angel.jpg" width="640" height="480">
 전체 컨셉 이미지
-<img src="./img/simbol.jpg" width="640" height="480">  
+<img src="./img/simbol.jpg" width="640" height="480">
 교단 컨셉 이미지
-<img src="./img/topview.jpg" width="640" height="480">  
+<img src="./img/topview.jpg" width="640" height="480">
 게임 플레이 이미지
 <br><br>
 
