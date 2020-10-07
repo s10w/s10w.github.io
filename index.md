@@ -85,17 +85,18 @@
 
 이미 프리팹이 들어가 있는 리스트를 활성/비활성화 시키며 CPU의 부담을 줄이도록 구현할 예정
 
-## 5. 게임 오브젝트 분해
+# [게임 시스템 디자인]
+## 1. 게임 오브젝트 분해
 |번호|이름|이미지|  
 |---|---|---|  
-|1|Playar|<img src="./img/player.jpg" width="200" height="200">|  
-|2|Enemy|<img src="./img/enemy.jpg" width="200" height="200">|  
-|3|Bullet|<img src="./img/bullet.jpg" width="200" height="200">|  
-|4|Skill|<img src="./img/skill.jpg" width="200" height="200">|  
+|1|Playar|<img src="./img/player.jpg">|  
+|2|Enemy|<img src="./img/enemy.jpg">|  
+|3|Bullet|<img src="./img/bullet.jpg">|  
+|4|Skill|<img src="./img/skill.jpg">|  
 
 <br>
 
-## 6. 파라미터 분석
+## 2. 파라미터 분석
 1) 오브젝트 이름 : Player  
 
 |속성|속성값|설명|  
