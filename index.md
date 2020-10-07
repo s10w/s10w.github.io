@@ -84,4 +84,4 @@
 ## 5. 게임 오브젝트 분해
 |번호|이름|이미지|
 |:---:|:---:|:---:|  
-|1|Playar|<img src="./img/player.jpg" width="300" height="200">|
+|1|Playar|<img src="./img/player.jpg" width="200" height="200">|  
