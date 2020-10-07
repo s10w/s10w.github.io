@@ -85,3 +85,6 @@
 |번호|이름|이미지|
 |:---:|:---:|:---:|  
 |1|Playar|<img src="./img/player.jpg" width="200" height="200">|  
+|2|Enemy|<img src="./img/enemy.jpg" width="200" height="200">|  
+|3|Bullet|<img src="./img/bullet.jpg" width="200" height="200">|  
+|4|Skill|<img src="./img/player.jpg" width="400" height="400">|  
