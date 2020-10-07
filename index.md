@@ -95,6 +95,13 @@
 |3|Bullet|<img src="./img/bullet.jpg" width="640" height="480">|  
 |4|Skill|<img src="./img/skill.jpg" width="640" height="480">|  
 
+|번호|이름|이미지|  
+|---|---|---|  
+|1|Playar|<img src="./img/player.jpg">|  
+|2|Enemy|1|  
+|3|Bullet|1|  
+|4|Skill|1|  
+
 <br>
 
 ## 2. 파라미터 분석
