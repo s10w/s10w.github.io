@@ -94,7 +94,7 @@
 
 |번호|이름|이미지|  
 |---|---|---|  
-|1|Playar|1|  
+|1|Playar|<img src="./img/player.jpg">|  
 |2|Enemy|2|  
 |3|Bullet|3|  
 |4|Skill|4|  
