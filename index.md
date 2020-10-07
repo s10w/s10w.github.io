@@ -88,3 +88,11 @@
 |2|Enemy|<img src="./img/enemy.jpg" width="200" height="200">|  
 |3|Bullet|<img src="./img/bullet.jpg" width="200" height="200">|  
 |4|Skill|<img src="./img/skill.jpg" width="300" height="300">|  
+
+<br>
+
+## 6. 파라미터 분석
+1) 오브젝트 이름 : Player  
+|속성|속성값|설명|  
+|:---|:---|:---|  
+|이동 방향|Vector2|플레이어가 이동할 방향 마우스 벡터 – 플레어어 벡터|  
