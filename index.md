@@ -1,6 +1,6 @@
 [[컨셉]](#1컨셉)  
 [[관련 이미지 & 동영상]](#2관련-이미지--동영상)  
-[5. 게임 오브젝트 분해](#5-게임-오브젝트-분해)  
+[[게임 시스템 디자인]](#게임-시스템-디자인)  
 
 # [컨셉]
 ## 메인컨셉 : 웨이브
@@ -90,17 +90,10 @@
 
 |번호|이름|이미지|  
 |---|---|---|  
-|1|Playar|<img src="./img/player.jpg" width="640" height="480">|  
-|2|Enemy|<img src="./img/enemy.jpg" width="640" height="480">|  
-|3|Bullet|<img src="./img/bullet.jpg" width="640" height="480">|  
-|4|Skill|<img src="./img/skill.jpg" width="640" height="480">|  
-
-|번호|이름|이미지|  
-|---|---|---|  
-|1|Playar|<img src="./img/player.jpg">|  
-|2|Enemy|1|  
-|3|Bullet|1|  
-|4|Skill|1|  
+|1|Playar|<img src="./img/player.jpg" width="200" height="200">|  
+|2|Enemy|<img src="./img/enemy.jpg" width="200" height="200">|  
+|3|Bullet|<img src="./img/bullet.jpg" width="200" height="200">|  
+|4|Skill|<img src="./img/skill.jpg" width="200" height="200">|  
 
 <br>
 
