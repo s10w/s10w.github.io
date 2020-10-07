@@ -89,10 +89,10 @@
 ## 1. 게임 오브젝트 분해
 |번호|이름|이미지|  
 |---|---|---|  
-|1|Playar|<img src="./img/player.jpg">|  
-|2|Enemy|<img src="./img/enemy.jpg">|  
-|3|Bullet|<img src="./img/bullet.jpg">|  
-|4|Skill|<img src="./img/skill.jpg">|  
+|1|Playar|<img src="./img/player.jpg" width="640" height="480">|  
+|2|Enemy|<img src="./img/enemy.jpg" width="640" height="480">|  
+|3|Bullet|<img src="./img/bullet.jpg" width="640" height="480">|  
+|4|Skill|<img src="./img/skill.jpg" width="640" height="480">|  
 
 <br>
 
