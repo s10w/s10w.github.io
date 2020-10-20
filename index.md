@@ -340,5 +340,6 @@
 <img src="./img/flow.png">
 
 ## 용어 정리
+<img src="./img/summary.png">
 
 # 개발 작업 일정(6주)
