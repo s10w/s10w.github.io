@@ -345,4 +345,4 @@
 <img src="./img/summary.png">
 
 # 개발 작업 일정(6주)
-<img src="./img/timeline.png">
+<img src="./img/week.png">
