@@ -350,7 +350,7 @@
 
 # 주차별 개발 내용
 ## 1주차
-<img src="./files/week1.gif" width="640" height="480">
+<img src="./files/week1.gif" width="960" height="480">
 
 ## 2주차
 
