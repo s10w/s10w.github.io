@@ -353,4 +353,5 @@
 <img src="./files/week1.gif" width="960" height="480">
 
 ## 2주차
+<img src="./files/week2.gif" width="960" height="480">
 
