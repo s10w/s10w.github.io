@@ -351,7 +351,7 @@
 # 주차별 개발 내용
 ## 1주차
 
-<video controls width="640" height="360">
+<video controls width="640" height="240">
     <source src="files/week1.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
