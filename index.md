@@ -356,6 +356,7 @@
     Sorry, your browser doesn't support embedded videos.
 </video>
 
+<br>
 1주차 진행내용<br>
 마우스의 방향에 따라 플레이어가 이동한다 => 100%<br>
 <br>
@@ -375,6 +376,7 @@
     Sorry, your browser doesn't support embedded videos.
 </video>
 
+<br>
 2주차 진행 내용<br>
 교단 선택의 씬 추가 => 100%<br>
 선택시 해당 인덱스를 플레이어 스크립트로 전달 => 100%<br>
@@ -396,3 +398,6 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
     <source src="files/week2.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
+
+<br>
+3주차 진행 내용<br>
