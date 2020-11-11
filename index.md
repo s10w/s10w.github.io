@@ -352,7 +352,7 @@
 ## 1주차
 
 <video controls width="640" height="480">
-    <source src="files/week1.mp4" type="video/mp4">
+    <source src="s10w.github.io/files/week1.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
 
