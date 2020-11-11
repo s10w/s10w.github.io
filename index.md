@@ -351,6 +351,11 @@
 # 주차별 개발 내용
 ## 1주차
 
+<video controls width="640" height="480">
+    <source src="files/week1.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 1주차 진행내용<br>
 마우스의 방향에 따라 플레이어가 이동한다 => 100%<br>
 <br>
@@ -364,6 +369,11 @@
 랜덤한 위치에서 생성하지 못함 적군관리 함수를 다루는 3주차로 이동<br>
 
 ## 2주차
+
+<video controls width="640" height="480">
+    <source src="files/week2.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
 
 2주차 진행 내용<br>
 교단 선택의 씬 추가 => 100%<br>
@@ -379,3 +389,10 @@
 <br>
 공격, 스킬, 돌진 함수 반복함수로 최적화 (1주차 미구현 내용) => 100%<br>
 Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄임<br>
+
+## 3주차
+
+<video controls width="640" height="480">
+    <source src="files/week2.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
