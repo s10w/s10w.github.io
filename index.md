@@ -395,7 +395,7 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
 
 ## 3주차
 
-<video controls width="640" height="480">
+<video controls width="480" height="360">
     <source src="files/week2.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
